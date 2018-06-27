@@ -1,2 +1,1 @@
-"# meat-api-test" 
-"# meat-api-test" 
+# Tests implementados com Jest e Supertest para uma API de restaurantes
